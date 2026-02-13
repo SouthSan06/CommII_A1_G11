@@ -1,9 +1,12 @@
-# CommII_A1_G11
+# CommII\_A1\_G11
+
 Practicas de laboratorio de Comunicaciones 2
 
 
-pracica_1
+
+practica\_1
 
 Samuel Leal
 Juan Pinzón
 Jhon Robayo
+
