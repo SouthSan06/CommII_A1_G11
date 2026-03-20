@@ -1,0 +1,10 @@
+ancho de banda en la psd entre -Rb y Rb , varir Rb, como funciona unpack k bits, el unpack no afecta la PSD en anchode banda la afecta en frecuencia.
+
+Fs= Rb*Sps
+
+interpolation fliter la muestrea la señal, interpola muestras filtra señales, repitiendo la muestra un numero de bits determinado(por la interpolacion), transforma a señal cuadrada una muestra
+
+5 paginas maximo
+
+e) No puedes analizar correctamente la Densidad Espectral de Potencia (PSD) si la señal no tiene media cero porque la componente continua (DC), es decir, el valor promedio distinto de cero, concentra una gran cantidad de energía en la frecuencia
+. Esto domina el espectro, ocultando la información de frecuencia relevante.
