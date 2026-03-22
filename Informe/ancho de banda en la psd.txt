@@ -8,3 +8,12 @@ interpolation fliter la muestrea la señal, interpola muestras filtra señales, 
 
 e) No puedes analizar correctamente la Densidad Espectral de Potencia (PSD) si la señal no tiene media cero porque la componente continua (DC), es decir, el valor promedio distinto de cero, concentra una gran cantidad de energía en la frecuencia
 . Esto domina el espectro, ocultando la información de frecuencia relevante.
+
+f)no dado que en gnu radio se simula usando como ancho limite el sample rate, que seria como el "infinito" de la simulacion.
+
+G)es dependiente de los valores establecidos en simulacion, dado que no se puede simular el infinito  
+
+h) nyquist
+i) depende de la multiplicacion de ambos rb*sps
+j) fs/N
+
